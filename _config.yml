@@ -12,14 +12,14 @@
 
 theme                    : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : en-US
 title                    : "Rupesh Tiwari - Software Architect & Trainer"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Rupesh Tiwari"
+name                     : "RupeshTiwari.com"
 description              : "Angular Blogs"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -27,12 +27,12 @@ repository               : rupeshtiwari/rupeshtiwari.github.io # GitHub username
 teaser                   : /assets/images/teaser.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Rupesh Tiwari" # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs            : true  # true, false (default)
+breadcrumbs              : true  # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : "https-rupeshtiwari-github-io-1" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -61,7 +61,7 @@ algolia:
   search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : # true (default), false
 google:
-  search_engine_id       : AIzaSyBO2Oqip5ONGCJk5VVJKW0VVmLVfFRfgzY # YOUR_SEARCH_ENGINE_ID
+  search_engine_id       : a864da0e7ebca88be # YOUR_SEARCH_ENGINE_ID
   instant_search         : true # false (default), true
 # SEO Related
 google_site_verification :
@@ -281,6 +281,8 @@ defaults:
       share: true
       related: true
 
+# Rupesh 
 footer_scripts:
+  - https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js
   - https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.9.1/mermaid.min.js
   
