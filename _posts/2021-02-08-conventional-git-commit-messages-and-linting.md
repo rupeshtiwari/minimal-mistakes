@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: Conventional Git Commit Messages and Linting
 date: "2021-02-08 08:53 -0500"
 subtitle: Vscode linting to enforce conventional commit message
@@ -23,6 +23,7 @@ social-share: true
 toc: true
 excerpt_separator: <!--more-->
 id: 595653
+related: true
 ---
 
 > Do you want to follow Conventional Commits and want to enforce a rule such

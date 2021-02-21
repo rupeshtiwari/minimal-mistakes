@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: Travis CI vs Team Foundation Server vs Azure DevOps
 date: "2021-01-16 00:00 +0000"
 subtitle: Learn and decide which cloud based ci cd service you like
@@ -21,6 +21,7 @@ social-share: true
 excerpt_separator: <!--more-->
 id: 590166
 toc: true
+related: true
 ---
 
 > All are hosted CI/CD server supporting the build running in the build machines

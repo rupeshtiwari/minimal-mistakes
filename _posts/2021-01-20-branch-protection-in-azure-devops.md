@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: Branch protection in Azure DevOps
 date: "2021-01-20 00:00 +0000"
 subtitle: Learn how to protect Master branch of git repository in azure devops
@@ -22,6 +22,7 @@ social-share: true
 excerpt_separator: <!--more-->
 id: 589360
 toc: true
+related: true
 ---
 
 **Protecting Master Branch from Bad Pull Requests** is big challenge now a days

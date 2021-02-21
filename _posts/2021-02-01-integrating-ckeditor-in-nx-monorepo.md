@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: Integrating CkEditor In Nx Monorepo
 date: "2021-02-01 10:22 -0500"
 subtitle: Learn how to integrate ckeditor with custom plugin in Nx Monorepo
@@ -20,6 +20,7 @@ sitemap: true
 excerpt_separator: <!--more-->
 id: 588929
 toc: true
+related: true
 ---
 
 > So you want to learn how you will integrate CkEditor v5 in

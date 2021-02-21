@@ -1,5 +1,5 @@
 ---
-layout: postss
+layout: single
 title: Adding Tag to GIT Branch in Azure CI Pipelines
 date: "2021-02-21 00:00 +0000"
 subtitle: Learn applying git tag after azure ci build
@@ -22,6 +22,7 @@ comments: true
 social-share: true
 toc: true
 excerpt_separator: <!--more-->
+related: true
 ---
 
 > Do you want to know how to tag your git branch while building your source code
@@ -77,7 +78,6 @@ graph TD;
     B-->D;
     C-->D;
 </div>
-
 
 ![](https://i.imgur.com/apsuoAD.png)
 

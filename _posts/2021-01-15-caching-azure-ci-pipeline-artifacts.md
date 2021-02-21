@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: Caching Azure CI Pipeline Artifacts
 date: "2021-01-15 00:00 +0000"
 subtitle:
@@ -23,6 +23,7 @@ social-share: true
 excerpt_separator: <!--more-->
 id: 589364
 toc: true
+related: true
 ---
 
 If you are following agile then continuous integration is must. I have setup

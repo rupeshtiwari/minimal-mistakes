@@ -9,11 +9,10 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-# gem "github-pages", group: :jekyll_plugins
+gem "github-pages", group: :jekyll_plugins
 
 # To upgrade, run `bundle update`.
 
-gem "github-pages", group: :jekyll_plugins
 gem "minimal-mistakes-jekyll"
 
 # The following plugins are automatically loaded by the theme-gem:
@@ -27,6 +26,7 @@ gem "minimal-mistakes-jekyll"
 group :jekyll_plugins do
 end
 
-# Performance-booster for watching directories on Windows
+# Rupesh
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "webrick", "~> 1.7"
+gem "dotenv"

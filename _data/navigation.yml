@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Angular Training"
+    url: https://www.fullstackmaster.net/
+  - title: "About"
+    url: https://www.rupeshtiwari.com/rupesh
+  - title: "Angular Pro Membership"
+    url: https://www.fullstackmaster.net/pro
+  - title: "Angular Elite Membership"
+    url: https://www.fullstackmaster.net/elite
   # - title: "Sitemap"
   #   url: /sitemap/

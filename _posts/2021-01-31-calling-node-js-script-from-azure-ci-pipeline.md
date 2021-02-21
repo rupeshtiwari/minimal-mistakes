@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: Calling Node.js Script from Azure CI Pipeline
 date: "2021-01-31 00:00 +0000"
 subtitle: Learn how to execute custom node.js script from azure ci pipeline
@@ -21,6 +21,7 @@ social-share: true
 excerpt_separator: <!--more-->
 id: 589939
 toc: true
+related: true
 ---
 
 > If you want to run **node.js script** from **azure-pipelines.yml** and get the

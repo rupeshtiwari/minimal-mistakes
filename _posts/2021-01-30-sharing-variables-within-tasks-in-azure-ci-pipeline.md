@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: Sharing Variables within Tasks in Azure CI Pipeline
 date: "2021-01-22 00:00 +0000"
 subtitle:
@@ -23,6 +23,7 @@ social-share: true
 excerpt_separator: <!--more-->
 id: 589372
 toc: true
+related: true
 ---
 
 Do you want to create one variable in task-1 and read the value of that variable

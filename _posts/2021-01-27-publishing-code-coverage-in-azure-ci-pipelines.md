@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: Publishing Code Coverage in Azure CI Pipelines
 date: "2021-01-27 00:00 +0000"
 subtitle:
@@ -23,6 +23,7 @@ social-share: true
 excerpt_separator: <!--more-->
 id: 589369
 toc: true
+related: true
 ---
 
 > `Publish Code Coverage task` Publishes `Cobertura` or `JaCoCo` code coverage
