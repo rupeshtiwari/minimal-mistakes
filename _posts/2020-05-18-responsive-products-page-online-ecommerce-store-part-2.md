@@ -17,6 +17,9 @@ tags:
   - JavaScript
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p>In our previous demo session <a href="https://www.youtube.com/watch?v=ID3sxo7NchA&amp;list=PLZed_adPqIJrl9pwlERGhU-RCNOtKqvyD&amp;index=70&amp;t=0s" target="_blank" rel="noopener noreferrer"><strong>Responsive Products Page | e-Commerce | Angular Material | 1</strong></a> we discussed how to use mat-table rather mat-cards or mat-grids in products page to properly align our products. Now in this demo session <a href="https://www.youtube.com/watch?v=tijsesStWGI&amp;list=PLZed_adPqIJrl9pwlERGhU-RCNOtKqvyD&amp;index=71&amp;t=0s" target="_blank" rel="noopener noreferrer"><strong>Responsive Products Page | e-Commerce | Angular Material | 2 </strong></a>we will see how to make this products page responsive.</p>

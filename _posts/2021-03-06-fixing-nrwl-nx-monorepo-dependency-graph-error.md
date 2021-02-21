@@ -23,6 +23,9 @@ social-share: true
 toc: true
 excerpt_separator: <!--more-->
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 > If you are working on `nx monorepo workspace` and if you have notice below

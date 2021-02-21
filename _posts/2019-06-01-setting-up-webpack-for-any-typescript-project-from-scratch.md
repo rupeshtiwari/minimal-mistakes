@@ -18,6 +18,9 @@ description: >-
   your own webpack project. Please download the source code from github.
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p><!-- wp:heading {"level":1} --></p>

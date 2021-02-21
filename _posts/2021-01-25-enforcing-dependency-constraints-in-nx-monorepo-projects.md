@@ -26,6 +26,9 @@ excerpt_separator: <!--more-->
 id: 590311
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 > Are you using [NRWL/NX monorepo](https://nx.dev/) in your company? and you are

@@ -17,6 +17,9 @@ tags:
   - JavaScript
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p>As we already fixed design and responsiveness of Login and Register pages of our ecommerce app in previous demo session <a href="https://www.youtube.com/watch?v=-sZAlN5sSI0&amp;list=PLZed_adPqIJrl9pwlERGhU-RCNOtKqvyD&amp;index=68&amp;t=0s" target="_blank" rel="noopener noreferrer"><strong>Creating Responsive Login And Register Page | Mobile Compatible. </strong></a>Next in this video tutorial <a href="https://www.youtube.com/watch?v=HIF-qFKQsOk&amp;list=PLZed_adPqIJrl9pwlERGhU-RCNOtKqvyD&amp;index=69&amp;t=0s" target="_blank" rel="noopener noreferrer"><strong>Pagination And Filter e-Commerce Angular App | mat-table</strong></a> we will focus on fixing the Products page of our online store and make it mobile compatible.</p>

@@ -24,6 +24,9 @@ toc: true
 excerpt_separator: <!--more-->
 id: 595653
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 > Do you want to follow Conventional Commits and want to enforce a rule such

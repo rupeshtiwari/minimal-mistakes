@@ -22,6 +22,9 @@ excerpt_separator: <!--more-->
 id: 590198
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 > Do you want to debug your [NRWL/NX monorepo](https://nx.dev/) specs in visual

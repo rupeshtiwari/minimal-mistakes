@@ -25,6 +25,9 @@ excerpt_separator: <!--more-->
 id: 589921
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 If you are working on [Nx Monorepo](https://nx.dev/) workspace and have many

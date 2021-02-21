@@ -23,6 +23,9 @@ description:
   supplied at run time via Dependency Injection.\t\t"
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <h2>Dependency Injection</h2>

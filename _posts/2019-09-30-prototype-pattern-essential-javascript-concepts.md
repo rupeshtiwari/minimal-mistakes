@@ -14,6 +14,9 @@ tags:
   - rupeshtiwari
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p>The Prototype Pattern creates new objects, but rather than creating non-initialized objects it returns objects that are initialized with values it copied from a prototype or sample object. The Prototype pattern is also known as the Properties pattern. In our video tutorial <strong><a href="https://www.youtube.com/watch?v=nrZE5dHXMXI" target="_blank" rel="noopener noreferrer">JavaScript Concepts- Prototype Pattern | 0004-14</a> </strong>we will see</p>

@@ -17,6 +17,9 @@ description: >-
   Prototypal inheritance technique, we can create the instance of an object.
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p>There is a great article written by <a href="http://javascript.crockford.com/prototypal.html" target="_blank" rel="noopener noreferrer">Douglas Crockford</a>. I recommend everybody to read this article. By using Prototypal inheritance technique, we can create the instance of an object. Suppose, we have one object User, we want to create the instance of the user object and use it in different-2 places. In order to create the instance of an object, we can set the prototype property of an Constructor Function equal to the object and then we can instantiate that constructor function to create the instance of that object. Below is the create method that will help us to do so. This method is taken from Doug's article.</p>

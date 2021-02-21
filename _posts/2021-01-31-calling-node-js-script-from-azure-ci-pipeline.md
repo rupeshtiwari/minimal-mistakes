@@ -22,6 +22,9 @@ excerpt_separator: <!--more-->
 id: 589939
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 > If you want to run **node.js script** from **azure-pipelines.yml** and get the

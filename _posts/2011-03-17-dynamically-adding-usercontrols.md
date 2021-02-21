@@ -14,6 +14,9 @@ tags:
 description: Dynamically Adding UserControls in Asp Net
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p><span style="font-family: calibri; font-size: 1.2em;"><br />

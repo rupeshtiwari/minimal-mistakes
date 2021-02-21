@@ -24,6 +24,9 @@ excerpt_separator: <!--more-->
 id: 589372
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 Do you want to create one variable in task-1 and read the value of that variable

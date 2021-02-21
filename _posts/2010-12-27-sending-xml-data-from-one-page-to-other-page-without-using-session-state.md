@@ -17,6 +17,9 @@ description:
   Sending xml data from one page to other page without using session state
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p>

@@ -22,6 +22,9 @@ excerpt_separator: <!--more-->
 id: 589355
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 If you want to create Build definition for Angular project in Azure DevOps, then

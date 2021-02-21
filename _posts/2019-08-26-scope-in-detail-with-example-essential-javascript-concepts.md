@@ -14,6 +14,9 @@ tags:
   - rupeshtiwari
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p>Though the concept of scope is not that easy to understand for beginners, yet we have tried to explain it in easiest way in our video tutorial <a href="https://www.youtube.com/watch?v=0n7XEO6qmeg&amp;list=PLZed_adPqIJoGpa6R2QdJy9RnqmOIy1Qd&amp;index=2" target="_blank" rel="noopener noreferrer"><strong>JavaScript Concepts: Scope Example | 0004-02</strong></a>. Understanding of this JS feature will make your code stand out, reduce errors and help you make powerful design patterns with it. Let us deep dive into this through one practical example.</p>

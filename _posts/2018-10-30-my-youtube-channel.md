@@ -15,6 +15,9 @@ tags:
 description: My YouTube Channel Fullstackmaster
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p>Hi everyone,</p>

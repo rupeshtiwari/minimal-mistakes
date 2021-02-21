@@ -34,6 +34,9 @@ description: >-
   pub-sub. We will also use bootstrap CSS for styling on our Html.
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p><!-- wp:heading --></p>

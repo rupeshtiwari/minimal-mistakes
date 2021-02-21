@@ -23,6 +23,9 @@ social-share: true
 toc: true
 excerpt_separator: <!--more-->
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 > Do you want to show **Angular** Code Coverage Report in Azure CI Pipeline then

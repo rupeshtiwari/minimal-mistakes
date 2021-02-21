@@ -14,6 +14,9 @@ tags:
   - rupeshtiwari
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p>In our previous video session <a href="https://www.youtube.com/watch?v=JBqr_jnwnrA" target="_blank" rel="noopener noreferrer"><strong>JavaScript Concepts- Module Pattern | 0004-11 </strong></a>we have learnt about basics of Module Pattern. Here in this video tutorial <a href="https://www.youtube.com/watch?v=ojdg4hGVF0k" target="_blank" rel="noopener noreferrer"><strong>JavaScript Concepts- Module Pattern example with Logger Object | 0004-12</strong></a> we will understand working of module pattern with help of practical examples. Basically there are three ways to create a class:</p>

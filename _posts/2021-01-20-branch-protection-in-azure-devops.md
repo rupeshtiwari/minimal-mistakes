@@ -23,6 +23,9 @@ excerpt_separator: <!--more-->
 id: 589360
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 **Protecting Master Branch from Bad Pull Requests** is big challenge now a days

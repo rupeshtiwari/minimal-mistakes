@@ -23,6 +23,9 @@ description:
   it can go beyond anything.\t\t"
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p>

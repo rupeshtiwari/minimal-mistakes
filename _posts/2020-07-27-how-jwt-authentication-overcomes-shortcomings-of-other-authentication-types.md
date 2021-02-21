@@ -18,6 +18,9 @@ tags:
   - rupeshtiwari
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p>In this video tutorial <a href="https://www.youtube.com/watch?v=2VDclXVUeZo&amp;list=PLZed_adPqIJp9M8sXttDmlCzWzat44GRi&amp;index=6&amp;t=0s" target="_blank" rel="noopener noreferrer"><strong>0010-4 JWT authentication for distrubuted system</strong></a> we will learn what makes JWT authentication world’s most popular authentication type. We will see how it overcomes shortcomings of other authentication types. Our main focus will be on understanding its process which makes it unique from others.</p>

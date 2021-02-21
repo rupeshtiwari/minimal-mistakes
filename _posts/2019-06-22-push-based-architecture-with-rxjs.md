@@ -25,6 +25,9 @@ description: >-
   Design Pattern that is exactly what I mean by Push Based Architecture.
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p><!-- wp:quote --></p>

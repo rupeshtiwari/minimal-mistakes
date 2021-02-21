@@ -16,6 +16,9 @@ tags:
 description: JavaScript Module Pattern
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p>I recently wrote one article on JavaScript Module pattern in Code project. Please visit this website and suggest me your thoughts on it...</p>

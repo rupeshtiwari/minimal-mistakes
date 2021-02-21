@@ -16,6 +16,9 @@ tags:
   - rupeshtiwari
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p>In our previous demo sessions we successfully created our Product Mart app. Now we are ready to deploy our code to so called production environment. For this we need to follow below steps and all these steps are also explained in our demo session <a href="https://www.youtube.com/watch?v=T_tu5Yw-rKQ&amp;list=PLZed_adPqIJrl9pwlERGhU-RCNOtKqvyD&amp;index=15&amp;t=0s" target="_blank" rel="noopener noreferrer"><strong>Running Local Server | Express | Angular | Demo | 0009-14 </strong></a>in detail.</p>

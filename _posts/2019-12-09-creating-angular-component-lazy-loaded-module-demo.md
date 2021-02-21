@@ -14,6 +14,9 @@ tags:
   - rupeshtiwari
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p>Let’s begin this demo session <a href="https://www.youtube.com/watch?v=emlJbYT7MbY&amp;list=PLZed_adPqIJrl9pwlERGhU-RCNOtKqvyD&amp;index=10&amp;t=0s" target="_blank" rel="noopener noreferrer"><strong>Creating Products Module | Lazy loaded module | Angular | 0009-09 </strong></a>by creating a home component. Command used to generate home component is <strong>ng generate component home </strong>and shortcut is <strong>ng g c home. </strong>This command will automatically update our app module and put home folder inside our app folder.</p>

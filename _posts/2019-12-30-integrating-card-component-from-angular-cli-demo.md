@@ -14,6 +14,9 @@ tags:
   - rupeshtiwari
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p>This demo session  <a href="https://www.youtube.com/watch?v=BETUMZgepeo&amp;list=PLZed_adPqIJrl9pwlERGhU-RCNOtKqvyD&amp;index=13&amp;t=0s" target="_blank" rel="noopener noreferrer"><strong>Applying Card Component | Angular Material | Demo | 0009-12 </strong></a>talks about integrating card components from angular material so that we can put them in our app to showcase our products list. In order to get source code for required cards, we will open angular material site and go to card section inside layout.</p>

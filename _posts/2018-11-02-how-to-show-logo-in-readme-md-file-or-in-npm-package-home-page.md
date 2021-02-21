@@ -14,6 +14,9 @@ tags:
 description: How to Show Logo in ReadMe.Md file or in npm Package Home Page
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <h1>How to add your own logo on README.md file</h1>

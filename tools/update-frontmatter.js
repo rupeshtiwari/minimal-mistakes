@@ -4,6 +4,10 @@ const addProperties = {
   toc: true,
   layout: "posts",
   related: true,
+  share: true,
+  comments: true,
+  read_time: true,
+  author_profile: true
 };
 
 frontformatter('src', addProperties, ['meta', 'author','permalink'], []);

@@ -13,6 +13,9 @@ tags:
   - JavaScript
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p>The Module Pattern is one of the most common design patterns used in JavaScript. It is easy to use and creates encapsulation of our code. Before we deep dive into this, first let’s see</p>

@@ -21,6 +21,10 @@ excerpt_separator: <!--more-->
 id: 588929
 toc: true
 related: true
+share: true
+comments: true
+read_time: true
+author_profile: true
 ---
 
 > So you want to learn how you will integrate CkEditor v5 in

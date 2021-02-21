@@ -19,6 +19,9 @@ tags:
   - JavaScript
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p>In our previous demo session <a href="https://www.youtube.com/watch?v=wsux8G3L-rQ&amp;list=PLZed_adPqIJrl9pwlERGhU-RCNOtKqvyD&amp;index=66&amp;t=0s" target="_blank" rel="noopener noreferrer"><strong>Responsive Toolbar Online ecommerce Store Part 2</strong></a> we have learnt how to create responsive toolbar with proper design. Next in this video session we will focus on creating mobile compatible responsive login and register page in our ecommerce store web app.</p>

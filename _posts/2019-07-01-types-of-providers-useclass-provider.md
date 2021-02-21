@@ -12,6 +12,9 @@ tags:
   - Angular
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p>Class Provider configures the Injector to return an instance of useClass for a token. It is similar to type provider but it has different way of providing corresponding dependency.</p>

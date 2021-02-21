@@ -20,6 +20,9 @@ description: >-
   on JavaScript foundation, ngRX and much more.
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p><!-- wp:paragraph --></p>

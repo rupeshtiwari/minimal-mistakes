@@ -27,6 +27,9 @@ description: >
   (https://online-shop-ecommerce.herokuapp.com/products)
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p><!-- wp:shortcode --><br />

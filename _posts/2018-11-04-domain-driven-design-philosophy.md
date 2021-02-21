@@ -19,6 +19,9 @@ description:
   explain the philosophy of DDD here in this article.\_ Let's begin...\t\t"
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p>

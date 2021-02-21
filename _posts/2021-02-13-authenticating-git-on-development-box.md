@@ -23,6 +23,9 @@ social-share: true
 toc: true
 excerpt_separator: <!--more-->
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 > Are you using windows machine for local development? Do you have Azure DevOp's

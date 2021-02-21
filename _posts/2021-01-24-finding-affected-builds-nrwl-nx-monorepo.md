@@ -27,6 +27,9 @@ social-share: true
 excerpt_separator: <!--more-->
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 > In this article, I will explain how to know which applications or libraries

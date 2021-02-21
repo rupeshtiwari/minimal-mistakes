@@ -21,8 +21,12 @@ sitemap: true
 comments: true
 social-share: true
 toc: true
-excerpt_separator: <!--more-->
 related: true
+toc_sticky: true
+excerpt_separator: <!--more-->
+share: true
+read_time: true
+author_profile: true
 ---
 
 > Do you want to know how to tag your git branch while building your source code

@@ -18,6 +18,9 @@ description:
   that are accessible to everyone in your colony.\t\t"
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <h2>What is Scope in JavaScript</h2>

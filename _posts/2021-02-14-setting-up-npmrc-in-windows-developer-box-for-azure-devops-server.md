@@ -23,9 +23,12 @@ comments: true
 social-share: true
 toc: true
 toc_sticky: true
-toc_icon: "cog"
+toc_icon: cog
 excerpt_separator: <!--more-->
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 > Are you wondering how to create an `.npmrc` file and put an

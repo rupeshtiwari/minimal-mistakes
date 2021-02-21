@@ -14,6 +14,9 @@ tags:
   - Dependency Injection
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p>As we know, one must configure an injector with a provider, or it won't know how to create the dependency. The most obvious way for an injector to create an instance of a service class is with the class itself. If you specify the service class itself as the provider token, the default behavior is for the injector to instantiate that class with new.</p>

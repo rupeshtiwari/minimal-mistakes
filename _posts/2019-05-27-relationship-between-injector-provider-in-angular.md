@@ -14,6 +14,9 @@ tags:
   - Dependency Injection
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p>A Dependency Provider configures an Injector with a DI Token, which that injector uses to provide the concrete, runtime version of a dependency value. The injector relies on the provider configuration to create instances of the dependencies that it injects into components, directives, pipes, and other services.</p>

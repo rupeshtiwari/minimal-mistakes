@@ -16,6 +16,9 @@ description: >-
   synchronous manner want to learn more please watch my course till the end.
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p><!-- wp:heading {"level":1} --></p>

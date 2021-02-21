@@ -14,6 +14,9 @@ tags:
   - Dependency Injection
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p>Due to its component based architecture, angular has capability to protect our code for future. It is basically making our code future ready as each component contains only elements with related functionality. They are well encapsulated, loosely coupled and provide a clean API that does not reveal the component’s internal state.</p>

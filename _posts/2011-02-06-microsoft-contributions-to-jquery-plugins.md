@@ -15,6 +15,9 @@ tags:
 description: Microsoft contributions to jQuery Plugins
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p>

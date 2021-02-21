@@ -22,6 +22,9 @@ excerpt_separator: <!--more-->
 id: 590166
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 > All are hosted CI/CD server supporting the build running in the build machines

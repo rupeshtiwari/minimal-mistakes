@@ -14,6 +14,9 @@ tags:
   - Dependency Injection
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p>Scope of Dependency in Angular is very important concept to understand for a full stack developer. This is primarily asked question by interviewer in many different forms.</p>

@@ -14,6 +14,9 @@ tags:
   - Dependency Injection
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p>As we know UseExisting provider configures the Injector to return a value of another UseExisting token. Through this provider, we can use already existing instance or object. Let’s discuss one practical example of UseExisting provider which is present in angular itself.</p>

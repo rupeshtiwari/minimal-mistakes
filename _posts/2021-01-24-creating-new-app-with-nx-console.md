@@ -22,6 +22,9 @@ excerpt_separator: <!--more-->
 id: 590337
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 > Do you want to create a new application on my [nx monorepo](https://nx.dev/)

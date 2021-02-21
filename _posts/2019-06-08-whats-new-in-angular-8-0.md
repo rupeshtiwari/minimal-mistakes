@@ -12,6 +12,9 @@ tags:
   - angular 8
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <pre><span style="font-weight: 400;">Angular 8.0.0 is here!</span></pre>

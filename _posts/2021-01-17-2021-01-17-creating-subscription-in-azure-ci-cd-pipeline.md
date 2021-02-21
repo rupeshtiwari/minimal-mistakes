@@ -22,6 +22,9 @@ excerpt_separator: <!--more-->
 id: 590185
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <br/>

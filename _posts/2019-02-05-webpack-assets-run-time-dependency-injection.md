@@ -15,6 +15,9 @@ tags:
 description: "\n\t\t\t\tHow to pass public path to webpack assets bundle. \t\t"
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <h2>How to Inject Base Assets path URL dependency to webpack CSS bundle?</h2>

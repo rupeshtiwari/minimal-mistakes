@@ -18,6 +18,9 @@ description:
   about a particular domain in a particular way.\_\t\t"
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p>Model in Domain Driven Design is a system of abstraction that eliminates things which are not required. Domain Model allows us to think about a particular domain in a particular way.</p>

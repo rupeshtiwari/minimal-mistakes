@@ -14,6 +14,9 @@ tags:
   - rupeshtiwari
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p>As we discussed in our last demo session <a href="https://www.youtube.com/watch?v=ek63pA4rqvA&amp;list=PLZed_adPqIJrl9pwlERGhU-RCNOtKqvyD&amp;index=7" target="_blank" rel="noopener noreferrer"><strong>Installing Angular Material Using Angular CLI | Tutorial | 0009-07 </strong></a>we are missing out component module installation through single command angular material installation process. We need to install component module manually from angular material site. But the issue is:</p>

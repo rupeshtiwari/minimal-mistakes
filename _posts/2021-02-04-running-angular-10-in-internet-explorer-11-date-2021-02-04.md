@@ -26,6 +26,9 @@ gh-repo: rupeshtiwari/rupeshtiwari.github.io
 excerpt_separator: <!--more-->
 id: 592350
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 > Are you worried that new angular 10 project is not running in "**IE11**" even

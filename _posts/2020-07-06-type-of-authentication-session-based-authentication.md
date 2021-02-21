@@ -17,6 +17,9 @@ tags:
   - rupeshtiwari
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p>Authentication is vital to most of the applications and the way it is achieved has evolved substantially in recent years. Basically there are three types of authentication:</p>

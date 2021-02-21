@@ -14,6 +14,9 @@ tags:
   - rupeshtiwari
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p>‘This’ keyword is widely used in almost all programming languages. Like in some programming languages This variable points to instance of an object or class. But in JavaScript it has bit different meaning; here This refers to Calling Context of the function. Whoever is calling a function, the calling context of that function is known as This.</p>

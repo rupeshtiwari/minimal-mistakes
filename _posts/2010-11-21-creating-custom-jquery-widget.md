@@ -13,6 +13,9 @@ tags:
 description: Creating Custom jQuery Widget
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p>Hi I just came across a greate website <a href="http://bililite.com/blog/understanding-jquery-ui-widgets-a-tutorial/">http://bililite.com/blog/understanding-jquery-ui-widgets-a-tutorial/</a></p>

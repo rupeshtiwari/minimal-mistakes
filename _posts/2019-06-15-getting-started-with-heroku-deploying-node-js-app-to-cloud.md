@@ -19,6 +19,9 @@ description:
   into heroku cloud within couple of minutes."
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <h1>Heroku PaaS best Cloud Platform</h1>

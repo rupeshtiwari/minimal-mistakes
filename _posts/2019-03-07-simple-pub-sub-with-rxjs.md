@@ -22,6 +22,9 @@ description:
   you how can you create your own pub sub library.\t\t"
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p><!-- wp:paragraph --></p>

@@ -19,6 +19,9 @@ tags:
 description: Integrate GitHub-Pages in Angular 6 App
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <h2>What is GhPages</h2>

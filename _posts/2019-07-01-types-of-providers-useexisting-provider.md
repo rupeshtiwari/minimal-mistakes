@@ -12,6 +12,9 @@ tags:
   - Angular
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p>UseExisting provider configures the Injector to return a value of another UseExisting token. Through this provider, we can use already existing instance or object.</p>

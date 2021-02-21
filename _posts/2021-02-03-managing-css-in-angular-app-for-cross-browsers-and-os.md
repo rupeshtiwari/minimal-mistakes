@@ -26,6 +26,9 @@ excerpt_separator: <!--more-->
 id: 591323
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 > Do you want to organize your **CSS** files in your **angular** app? Do you

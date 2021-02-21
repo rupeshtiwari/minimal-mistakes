@@ -17,6 +17,9 @@ description:
   use in real problem solving. \t\t\t\t"
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p><!-- wp:paragraph --></p>

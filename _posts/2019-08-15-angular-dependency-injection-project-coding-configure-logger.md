@@ -14,6 +14,9 @@ tags:
   - Dependency Injection
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p>In our sixth angular coding session <strong><a href="https://www.youtube.com/watch?v=5xZunv-kwqU&amp;list=PLZed_adPqIJrQ5uFoaQg8P_fDNGjpeSRH&amp;index=33" target="_blank" rel="noopener noreferrer">Angular Coding Session Learn Dependency Injection | Practical | 6/8</a><em>, </em></strong>we will see how to configure logger based on environment in our project. In this demo we will see how to configure the logger service such that based on environment change it will switch to http or console. Let’s say for dev it should use console logger and for prod it will go to http logger.</p>

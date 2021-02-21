@@ -13,6 +13,9 @@ tags:
   - Dependency Injection
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p>We cannot simply ignore the shortcomings like Interface, Array (bunch of objects) cannot be used as DI Token in angular. There can be possibility where we need to inject something which is not available at runtime in angular like Interface, callable type or Array.</p>

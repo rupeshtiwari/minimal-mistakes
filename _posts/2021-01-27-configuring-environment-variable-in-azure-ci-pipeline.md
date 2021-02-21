@@ -23,6 +23,9 @@ excerpt_separator: <!--more-->
 id: 590145
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 > Do you want to create environment level variable for your Azure Build CI

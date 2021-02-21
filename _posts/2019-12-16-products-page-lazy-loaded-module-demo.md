@@ -14,6 +14,9 @@ tags:
   - rupeshtiwari
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p>In continuity of our demo session <strong><a href="https://www.youtube.com/watch?v=emlJbYT7MbY&amp;list=PLZed_adPqIJrl9pwlERGhU-RCNOtKqvyD&amp;index=10&amp;t=0s" target="_blank" rel="noopener noreferrer">Creating Products Module | Lazy loaded module | Angular | 0009-09</a> </strong>we will see how to create Products page for our app keeping in mind Lazy load concept. We will not load our products on homepage instead will create separate product module and load it on demand or on click of our products page icon. Below are few coding snapshots and its respective outcomes from our demo session.</p>

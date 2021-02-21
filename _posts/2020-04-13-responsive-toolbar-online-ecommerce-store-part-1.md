@@ -18,6 +18,9 @@ tags:
   - JavaScript
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p>After learning error handling in our previous demo session <a href="https://www.youtube.com/watch?v=Zq_MT6Hc--U&amp;list=PLZed_adPqIJrl9pwlERGhU-RCNOtKqvyD&amp;index=59&amp;t=0s" target="_blank" rel="noopener noreferrer"><strong>Handling Server Side HTTP Error | 0009-27</strong></a>, next we will focus on creating responsive toolbar in our ecommerce store. In today’s world most of the shopping sites are being used on mobile phones, ipads etc., so it’s a must requirement to have a responsive web app which can work properly in mobile devices.</p>

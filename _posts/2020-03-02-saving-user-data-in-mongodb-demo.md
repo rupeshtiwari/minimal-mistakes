@@ -15,6 +15,9 @@ tags:
   - JavaScript
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p>In this video session <a href="https://www.youtube.com/watch?v=miZ3NF8ea00&amp;list=PLZed_adPqIJrl9pwlERGhU-RCNOtKqvyD&amp;index=23&amp;t=0s" target="_blank" rel="noopener noreferrer"><strong>Saving User To MongoDB | Mongoose | Demo | 0009-22 </strong></a>we will explain how to save user data in mongo db and how to validate user at server using Mongoose User Schema.</p>

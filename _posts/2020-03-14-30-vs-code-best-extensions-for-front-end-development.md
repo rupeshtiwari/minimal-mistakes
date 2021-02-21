@@ -19,6 +19,9 @@ description: >-
   live without installing these extensions!
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p><!-- wp:paragraph --></p>

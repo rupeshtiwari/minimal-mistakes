@@ -24,6 +24,9 @@ excerpt_separator: <!--more-->
 id: 589369
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 > `Publish Code Coverage task` Publishes `Cobertura` or `JaCoCo` code coverage

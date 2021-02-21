@@ -16,6 +16,9 @@ tags:
   - rupesh tiwari
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p><!-- wp:heading --></p>

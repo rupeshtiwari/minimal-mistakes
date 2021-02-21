@@ -22,6 +22,9 @@ excerpt_separator: <!--more-->
 id: 590106
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 > Did you have requirement to update your **Angular** CI build number as your

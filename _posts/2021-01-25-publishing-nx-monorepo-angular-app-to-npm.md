@@ -24,6 +24,9 @@ excerpt_separator: <!--more-->
 id: 590438
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 > Do you want to publish your [nx monorepo](https://nx.dev) app to npmjs.org? In

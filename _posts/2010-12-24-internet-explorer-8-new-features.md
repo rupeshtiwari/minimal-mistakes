@@ -14,6 +14,9 @@ tags:
 description: Internet Explorer 8 - new features
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p>

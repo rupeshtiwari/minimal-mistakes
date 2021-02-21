@@ -16,6 +16,9 @@ tags:
   - rupeshtiwari
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p>So far in our angular project development from scratch we have covered two things:</p>

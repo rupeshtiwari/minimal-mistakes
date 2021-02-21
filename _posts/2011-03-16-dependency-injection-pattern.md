@@ -17,6 +17,9 @@ tags:
 description: Dependency Injection Patterns
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p>

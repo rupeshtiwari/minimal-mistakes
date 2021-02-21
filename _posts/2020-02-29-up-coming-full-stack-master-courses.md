@@ -25,6 +25,9 @@ description: |-
   Functional Programming in JavaScript
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p><!-- wp:html --><br />

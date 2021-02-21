@@ -14,6 +14,9 @@ tags:
   - Dependency Injection
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p><span style="font-weight: 400;">Basically there are three types of dependency injection, Depending on the context we can choose any type which is being supported by that framework. Three types are:</span></p>

@@ -17,6 +17,9 @@ description: >-
   project. Well lets get started.
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p><!-- wp:heading {"level":1} --></p>

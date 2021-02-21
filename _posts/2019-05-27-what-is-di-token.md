@@ -13,6 +13,9 @@ tags:
   - Dependency Injection
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p>When we think of learning Dependency Injection in Angular, couple of questions arises like</p>

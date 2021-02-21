@@ -14,6 +14,9 @@ tags:
   - rupeshtiwari
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p>In order to install required angular material, angular team has provided six steps to follow in angular material home page. All of them are listed when we click on “Get Started” on home page.</p>

@@ -14,6 +14,9 @@ tags:
   - Dependency Injection
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p>Angular has a unique feature that makes it more popular and provides an upper hand as compare to other app building platforms like vue JS, React JS i.e. its capability to inject dependencies at run time. Angular with help of Dependency Injection can solve many complex scenarios easily by<br />

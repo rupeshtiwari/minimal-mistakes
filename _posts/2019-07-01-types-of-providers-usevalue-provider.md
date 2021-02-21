@@ -12,6 +12,9 @@ tags:
   - Angular
 toc: true
 related: true
+share: true
+read_time: true
+author_profile: true
 ---
 
 <p>UseValue provider configures the Injector to return a value for a token. It comes in that category of providers where we do not have unique thing to identify them at run time.</p>
