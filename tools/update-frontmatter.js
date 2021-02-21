@@ -2,7 +2,7 @@ const frontformatter = require('frontformatter');
 
 const addProperties = {
   toc: true,
-  layout: "single",
+  layout: "posts",
   related: true,
 };
 

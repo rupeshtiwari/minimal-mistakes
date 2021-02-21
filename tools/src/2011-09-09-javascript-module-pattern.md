@@ -1,0 +1,22 @@
+---
+layout: single
+title: JavaScript Module Pattern
+date: 2011-09-09T14:00:34.000Z
+type: post
+published: true
+comments: true
+social-share: true
+categories:
+  - Design Patterns
+  - JavaScriipt
+tags:
+  - Design Pattern
+  - JavaScript
+  - Object-oriented programming
+description: JavaScript Module Pattern
+toc: true
+related: true
+---
+
+<p>I recently wrote one article on JavaScript Module pattern in Code project. Please visit this website and suggest me your thoughts on it...</p>
+<p><a title="Module Pattern in Javascript" href="http://www.codeproject.com/KB/scripting/ModulePattern.aspx" target="_blank" rel="noopener noreferrer">Javascript Module Pattern</a></p>
