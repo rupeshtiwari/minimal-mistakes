@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: Menu Widget
 date: 2011-02-06T22:42:47.000Z
 type: post

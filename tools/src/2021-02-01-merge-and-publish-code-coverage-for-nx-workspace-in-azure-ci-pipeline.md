@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title:
   Publishing Merged Code Coverage Report of Nx Workspace in Azure CI Pipeline
 subtitle: Showing Nx Monorepo code coverage report in azure ci pipeline

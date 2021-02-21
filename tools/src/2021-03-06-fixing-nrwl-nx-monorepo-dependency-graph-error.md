@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: Fixing Nrwl Nx Monorepo Workspace Dependency Graph Error
 date: "2021-03-06 00:00 +0000"
 subtitle: nx monorepo workspace tslint dependency error fix

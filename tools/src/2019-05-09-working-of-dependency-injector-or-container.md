@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: Working of Dependency Injector or Container
 date: 2019-05-09T11:52:41.000Z
 type: post

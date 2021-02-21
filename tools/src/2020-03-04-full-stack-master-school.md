@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: full stack master school
 date: 2020-03-05T04:15:00.000Z
 type: post

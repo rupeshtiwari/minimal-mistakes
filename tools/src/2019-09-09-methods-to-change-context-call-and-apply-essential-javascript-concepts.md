@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title:
   "Methods to change Context – CALL and APPLY: Essential JavaScript Concepts"
 date: 2019-09-09T10:00:10.000Z

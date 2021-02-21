@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: Managing CSS in Angular App for Cross Browsers and OS
 date: "2021-02-03 13:50 -0500"
 subtitle:

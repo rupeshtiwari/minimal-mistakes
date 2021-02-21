@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: Getting Started with Heroku Deploying Node.js App to Cloud
 date: 2019-06-15T13:30:00.000Z
 type: post

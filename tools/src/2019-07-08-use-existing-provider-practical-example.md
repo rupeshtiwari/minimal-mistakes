@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: Use Existing provider practical example
 date: 2019-07-08T14:26:39.000Z
 type: post

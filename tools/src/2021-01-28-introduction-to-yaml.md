@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 tags:
   - devops
   - yaml

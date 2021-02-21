@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: An Introduction to MEAN Stack
 date: 2019-10-21T10:00:46.000Z
 type: post

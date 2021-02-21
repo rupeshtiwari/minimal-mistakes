@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: Enforcing Dependency Constraints Within Service in Nx Monorepo workspace
 date: "2021-01-26 00:00 +0000"
 subtitle: learn how to enforce dependency constraints on individual projects

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: "Angular app development from scratch: an Introduction"
 date: 2019-10-14T10:00:24.000Z
 type: post

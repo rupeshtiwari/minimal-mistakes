@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: >-
   Pre sell Reactive Angular App with Redux Design Pattern MEAN stack e-Commerce
   App

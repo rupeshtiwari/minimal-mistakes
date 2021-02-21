@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: Scheduling Jekyll Post on GitHub Pages
 date: "2021-02-28 00:00 +0000"
 subtitle: Writing GitHub action to schedule Jekyll blog post publish

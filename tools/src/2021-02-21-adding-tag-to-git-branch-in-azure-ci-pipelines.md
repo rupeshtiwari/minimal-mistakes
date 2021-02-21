@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: Adding Tag to GIT Branch in Azure CI Pipelines
 date: "2021-02-21 00:00 +0000"
 subtitle: Learn applying git tag after azure ci build

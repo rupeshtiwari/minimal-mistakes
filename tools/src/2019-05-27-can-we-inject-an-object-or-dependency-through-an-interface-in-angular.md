@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: Can we inject an object or dependency through an Interface in Angular?
 date: 2019-05-27T09:08:30.000Z
 type: post

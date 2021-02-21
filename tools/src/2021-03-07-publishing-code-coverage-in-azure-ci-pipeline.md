@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: Publishing Code Coverage in Azure CI Pipeline
 date: "2021-03-07 00:00 +0000"
 subtitle: Learn how to show Angular Code Coverage Report in Azure CI Pipeline

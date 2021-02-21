@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: UnitTesting-RxJS-Marble-Diagrams Problem Solver
 date: 2018-11-01T15:18:55.000Z
 type: post

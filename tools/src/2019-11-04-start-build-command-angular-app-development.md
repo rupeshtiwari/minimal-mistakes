@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: Start & Build Command - Angular app development
 date: 2019-11-04T11:00:16.000Z
 type: post

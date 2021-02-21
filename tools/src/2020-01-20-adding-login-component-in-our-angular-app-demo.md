@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: Adding Login component in our angular app - Demo
 date: 2020-01-20T11:00:05.000Z
 type: post

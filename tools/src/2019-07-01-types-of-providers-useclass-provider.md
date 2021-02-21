@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: Types of Providers -UseClass Provider
 date: 2019-07-01T06:56:48.000Z
 type: post

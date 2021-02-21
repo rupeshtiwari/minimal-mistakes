@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: Dependency Injection in React Core
 date: 2018-12-16T04:30:16.000Z
 type: post

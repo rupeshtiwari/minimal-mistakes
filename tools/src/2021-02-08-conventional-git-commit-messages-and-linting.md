@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: Conventional Git Commit Messages and Linting
 date: "2021-02-08 08:53 -0500"
 subtitle: Vscode linting to enforce conventional commit message

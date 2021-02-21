@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: >-
   Integrating angular material, products listing and local server deployment -
   Angular app development

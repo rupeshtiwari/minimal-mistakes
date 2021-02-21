@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: What is the Scope of Dependency in Angular?
 date: 2019-05-27T09:38:46.000Z
 type: post

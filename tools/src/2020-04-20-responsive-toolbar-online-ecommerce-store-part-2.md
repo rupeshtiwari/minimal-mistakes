@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: Responsive Toolbar - Online ecommerce Store Part 2
 date: 2020-04-20T10:00:04.000Z
 type: post

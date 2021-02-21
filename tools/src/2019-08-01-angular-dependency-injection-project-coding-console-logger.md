@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: Angular Dependency Injection Project coding – Console Logger
 date: 2019-08-01T10:00:41.000Z
 type: post

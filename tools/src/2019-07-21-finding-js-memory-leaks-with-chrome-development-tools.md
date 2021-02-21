@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: Finding JS Memory leaks with chrome development tools
 date: 2019-07-21T16:23:39.000Z
 type: post

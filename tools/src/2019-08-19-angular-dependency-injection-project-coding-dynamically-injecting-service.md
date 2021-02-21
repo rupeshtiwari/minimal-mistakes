@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title:
   Dynamically Injecting Service - Angular Dependency Injection Project coding
 date: 2019-08-19T10:00:59.000Z

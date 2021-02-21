@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: Sharing Variables within Tasks in Azure CI Pipeline
 date: "2021-01-22 00:00 +0000"
 subtitle:

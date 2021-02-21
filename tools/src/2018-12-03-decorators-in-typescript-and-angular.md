@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: Decorators in Typescript and Angular
 date: 2018-12-03T18:57:46.000Z
 type: post

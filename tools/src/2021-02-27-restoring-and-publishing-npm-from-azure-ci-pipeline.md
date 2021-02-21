@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: Restoring and Publishing NPM Packages from Azure CI Pipeline
 date: "2021-02-27 00:00 +0000"
 subtitle: >-

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: Publishing Code Coverage in Azure CI Pipelines
 date: "2021-01-27 00:00 +0000"
 subtitle:

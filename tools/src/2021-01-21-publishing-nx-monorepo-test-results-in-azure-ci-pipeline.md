@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: Publishing Nx Monorepo Test Results in Azure CI Pipeline
 date: "2021-01-30 00:00 +0000"
 subtitle:

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: RxJS Marble Diagrams
 date: 2018-11-22T02:29:53.000Z
 type: post

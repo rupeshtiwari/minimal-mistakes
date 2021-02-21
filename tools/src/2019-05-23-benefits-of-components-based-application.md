@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: Benefits of Components based application
 date: 2019-05-23T11:22:24.000Z
 type: post

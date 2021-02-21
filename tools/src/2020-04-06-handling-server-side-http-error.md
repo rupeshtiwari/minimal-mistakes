@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: Handling Server Side HTTP Error
 date: 2020-04-06T10:00:15.000Z
 type: post

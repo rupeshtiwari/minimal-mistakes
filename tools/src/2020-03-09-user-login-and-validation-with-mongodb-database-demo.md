@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: User Login and validation with MongoDB database - Demo
 date: 2020-03-09T10:00:44.000Z
 type: post

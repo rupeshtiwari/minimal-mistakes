@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: Pre sell on e-commerce angular mean.js application
 date: 2020-03-06T03:48:00.000Z
 type: post

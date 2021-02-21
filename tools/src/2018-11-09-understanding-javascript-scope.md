@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: Understanding JavaScript Scope
 date: 2018-11-10T00:50:53.000Z
 type: post

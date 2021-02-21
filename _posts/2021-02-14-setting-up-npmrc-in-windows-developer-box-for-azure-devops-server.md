@@ -22,6 +22,8 @@ sitemap: true
 comments: true
 social-share: true
 toc: true
+toc_sticky: true
+toc_icon: "cog"
 excerpt_separator: <!--more-->
 related: true
 ---

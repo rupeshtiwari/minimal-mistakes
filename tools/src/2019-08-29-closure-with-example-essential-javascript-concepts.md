@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: Closure With Example - Essential JavaScript Concepts
 date: 2019-08-29T10:00:48.000Z
 type: post

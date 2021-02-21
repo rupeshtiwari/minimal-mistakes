@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: Shopping Cart- Update Delete And Restore – Demo
 date: 2020-06-15T10:00:47.000Z
 type: post

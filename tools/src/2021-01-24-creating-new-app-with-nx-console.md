@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: Creating New App with Nx Console
 date: "2021-01-24 00:00 +0000"
 subtitle: learn creating new application using nx console in monorepo

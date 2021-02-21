@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: My Pluralsight Course
 date: 2018-10-30T19:04:15.000Z
 type: post

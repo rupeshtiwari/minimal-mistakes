@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: "Prototype Pattern: Essential JavaScript Concepts"
 date: 2019-09-30T10:00:15.000Z
 type: post

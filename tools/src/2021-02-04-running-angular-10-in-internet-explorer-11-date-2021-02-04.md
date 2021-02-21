@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: Running Angular 10 in Internet Explorer 11
 date: "2021-02-04 00:00 +0000"
 subtitle: Learn supporting Internet Explorer in Angular

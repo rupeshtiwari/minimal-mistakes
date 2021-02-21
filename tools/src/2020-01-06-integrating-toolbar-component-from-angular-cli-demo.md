@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: Integrating Toolbar Component from Angular CLI - Demo
 date: 2020-01-06T11:00:12.000Z
 type: post

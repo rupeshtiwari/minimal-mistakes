@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: Model in Domain Driven Design
 date: 2019-02-07T12:00:12.000Z
 type: post

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: Dependency Injection Patterns
 date: 2011-03-17T03:17:26.000Z
 type: post

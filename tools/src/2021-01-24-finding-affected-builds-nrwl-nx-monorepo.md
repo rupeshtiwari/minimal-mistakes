@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: Finding Affected Builds in Nrwl Nx Monorepo
 date: "2021-01-24 00:00 +0000"
 subtitle: >-

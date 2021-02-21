@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: Installing Angular Material component modules - Demo
 date: 2019-12-02T11:00:05.000Z
 type: post

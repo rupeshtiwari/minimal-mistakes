@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: Unit Testing RxJS with Marble Diagrams
 date: 2019-06-01T14:00:12.000Z
 type: post

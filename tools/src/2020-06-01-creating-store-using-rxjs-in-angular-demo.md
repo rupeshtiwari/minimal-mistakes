@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: Creating Store Using RxJS in Angular - Demo
 date: 2020-06-01T10:00:37.000Z
 type: post

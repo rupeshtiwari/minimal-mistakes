@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: Calling Node.js Script from Azure CI Pipeline
 date: "2021-01-31 00:00 +0000"
 subtitle: Learn how to execute custom node.js script from azure ci pipeline

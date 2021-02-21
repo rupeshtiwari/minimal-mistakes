@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: Open/Closed principle is never 100% closed
 date: 2011-01-02T00:25:38.000Z
 type: post

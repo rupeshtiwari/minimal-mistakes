@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: Type of Authentication - Session Based Authentication
 date: 2020-07-06T10:00:18.000Z
 type: post

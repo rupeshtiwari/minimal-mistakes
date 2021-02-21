@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: Local Alias pattern
 date: 2011-01-12T05:00:06.000Z
 type: post

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: Updating Azure CI Pipeline Build Number
 date: "2021-01-28 00:00 +0000"
 subtitle: Learn how to update build number in azure ci pipeline

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: Creating Angular Build Definition in Azure CI Pipeline
 date: "2021-01-09 00:00 +0000"
 description: Learn creating Angular Build Azure CI Pipeline

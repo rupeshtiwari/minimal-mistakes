@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: What is multi True provider in angular?
 date: 2019-07-07T14:12:00.000Z
 type: post
