@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: Build Reactive JavaScript Application from Scratch
 date: 2020-02-15T03:53:00.000Z
 published: true

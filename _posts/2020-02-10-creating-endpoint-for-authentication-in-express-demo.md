@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: Creating Endpoint For Authentication in Express - Demo
 date: 2020-02-10T11:00:55.000Z
 published: true

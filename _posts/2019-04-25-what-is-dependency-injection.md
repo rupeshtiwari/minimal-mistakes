@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: What is Dependency Injection?
 date: 2019-04-25T11:30:23.000Z
 published: true

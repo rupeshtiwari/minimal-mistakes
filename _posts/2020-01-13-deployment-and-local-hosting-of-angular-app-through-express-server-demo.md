@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: Deployment and local hosting of angular app through Express server - Demo
 date: 2020-01-13T11:00:43.000Z
 published: true

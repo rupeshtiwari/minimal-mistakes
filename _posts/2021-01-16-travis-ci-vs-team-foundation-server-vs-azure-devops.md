@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: Travis CI vs Team Foundation Server vs Azure DevOps
 date: "2021-01-16 00:00 +0000"
 subtitle: Learn and decide which cloud based ci cd service you like

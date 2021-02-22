@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: Products page & Lazy Loaded Module - Demo
 date: 2019-12-16T11:00:14.000Z
 published: true

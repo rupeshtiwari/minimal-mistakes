@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: "jTip: jQuery Custom Tool Tip"
 date: 2010-12-19T12:24:04.000Z
 published: true

@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: Caching Azure CI Pipeline Artifacts
 date: "2021-01-15 00:00 +0000"
 subtitle:

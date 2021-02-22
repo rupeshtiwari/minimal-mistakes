@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: Installing Angular Material using Angular CLI- Demo
 date: 2019-11-25T11:00:51.000Z
 published: true

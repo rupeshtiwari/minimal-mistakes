@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: Scope Introduction - Essential JavaScript Concepts
 date: 2019-08-22T10:00:45.000Z
 published: true

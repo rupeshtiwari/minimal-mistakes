@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: Types of Providers -UseValue Provider
 date: 2019-07-01T07:15:19.000Z
 published: true

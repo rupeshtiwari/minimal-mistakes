@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: Responsive Products Page – online ecommerce store part 1
 date: 2020-05-11T10:00:48.000Z
 published: true

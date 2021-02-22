@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: >-
   Creating Mobile compatible Responsive Login and Register Page - Online
   ecommerce Store

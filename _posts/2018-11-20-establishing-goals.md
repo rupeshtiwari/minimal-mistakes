@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: Establishing Goals
 date: 2018-11-21T01:52:32.000Z
 published: true

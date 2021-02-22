@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: Expand your skills & become full stack developer in 90 days
 date: 2020-04-11T18:24:46.000Z
 published: true

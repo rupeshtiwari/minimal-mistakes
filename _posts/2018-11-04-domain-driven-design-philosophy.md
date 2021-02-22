@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: Domain Driven Design Philosophy
 date: 2018-11-05T02:06:14.000Z
 published: true

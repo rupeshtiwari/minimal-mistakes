@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: What is Injection Token and Where to use it?
 date: 2019-05-27T09:12:00.000Z
 published: true

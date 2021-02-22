@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: Angular Dependency Injection Project coding – Inject Base URL
 date: 2019-08-08T10:00:32.000Z
 published: true

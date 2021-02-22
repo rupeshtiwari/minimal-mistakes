@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: Creating Typescript Library using Webpack
 date: 2018-11-23T10:43:35.000Z
 published: true

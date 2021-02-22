@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: Enforcing Dependency Constraints in Nx Monorepo Projects
 date: "2021-01-25 00:00 +0000"
 subtitle: >-

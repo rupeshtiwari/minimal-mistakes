@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: Given When Then in Angular
 date: 2020-06-22T10:00:37.000Z
 published: true

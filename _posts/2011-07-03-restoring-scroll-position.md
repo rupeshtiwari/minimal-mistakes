@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: Restoring Scroll Position
 date: 2011-07-04T00:00:07.000Z
 published: true

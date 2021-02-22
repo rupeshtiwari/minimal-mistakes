@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: Adding Tag to GIT Branch in Azure CI Pipelines
 date: "2021-02-21 00:00 +0000"
 toc: true

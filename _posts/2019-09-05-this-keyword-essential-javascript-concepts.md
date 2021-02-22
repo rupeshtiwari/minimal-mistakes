@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: This Keyword - Essential JavaScript Concepts
 date: 2019-09-05T10:00:01.000Z
 published: true

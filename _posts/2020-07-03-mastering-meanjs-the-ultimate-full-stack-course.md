@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: Mastering meanjs - the ultimate full stack course
 date: 2020-07-03T06:26:05.000Z
 published: true

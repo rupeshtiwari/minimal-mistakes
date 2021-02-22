@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: "Comparison between React, Angular and Vue.Js"
 date: 2019-05-23T11:36:33.000Z
 published: true

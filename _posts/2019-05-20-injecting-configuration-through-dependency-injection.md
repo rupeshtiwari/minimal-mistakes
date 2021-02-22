@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: Injecting Configuration through Dependency Injection
 date: 2019-05-20T09:23:52.000Z
 published: true

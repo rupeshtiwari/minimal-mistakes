@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: Integrate GitHub-Pages in Angular 6 App
 date: 2018-11-02T03:31:50.000Z
 published: true

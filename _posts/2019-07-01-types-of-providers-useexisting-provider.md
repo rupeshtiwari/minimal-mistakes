@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: Types of Providers -UseExisting Provider
 date: 2019-07-01T07:07:16.000Z
 published: true

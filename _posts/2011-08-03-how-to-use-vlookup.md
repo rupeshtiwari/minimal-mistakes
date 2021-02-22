@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: How to use VLOOKUP in Microsoft Excel
 date: 2011-08-03T17:58:41.000Z
 published: true

@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: Creating NPMRC in Windows Developer Box for Azure DevOps Server
 date: "2021-02-14 00:00 +0000"
 subtitle: setting npm authentication for dev box for restoring npm packages

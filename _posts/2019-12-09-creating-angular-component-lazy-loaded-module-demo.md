@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: Creating Angular Component & Lazy Loaded Module - Demo
 date: 2019-12-09T11:00:48.000Z
 published: true

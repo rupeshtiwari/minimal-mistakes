@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: Saving User data in MongoDB - Demo
 date: 2020-03-02T11:00:22.000Z
 published: true

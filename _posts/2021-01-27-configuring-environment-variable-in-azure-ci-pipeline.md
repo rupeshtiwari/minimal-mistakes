@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: Configuring Environment Variable in Azure CI Pipeline
 date: "2021-01-27 00:00 +0000"
 subtitle: Learn how to define and use environment variable in azure ci pipeline

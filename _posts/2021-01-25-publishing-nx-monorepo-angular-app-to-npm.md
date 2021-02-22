@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: Publishing Nx Monorepo Angular App to NPM
 date: "2021-01-25 00:00 +0000"
 subtitle: learn how to publish angular app to npm from nx monorepo apps

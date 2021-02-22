@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: Push Based Architecture With RxJS Behavior Subject
 date: 2019-06-22T15:56:45.000Z
 published: true

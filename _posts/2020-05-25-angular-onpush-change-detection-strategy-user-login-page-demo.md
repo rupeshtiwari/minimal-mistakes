@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: Angular onPush Change Detection Strategy User Login Page - Demo
 date: 2020-05-25T10:00:12.000Z
 published: true

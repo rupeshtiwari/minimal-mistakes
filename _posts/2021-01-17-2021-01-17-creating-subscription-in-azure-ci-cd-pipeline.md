@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: Creating Subscription in Azure CI Pipeline
 date: "2021-01-17 00:00 +0000"
 subtitle: Learn how to subscribe to your azure ci pipeline notification

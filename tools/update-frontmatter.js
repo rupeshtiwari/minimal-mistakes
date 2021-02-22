@@ -4,7 +4,7 @@ const addProperties = {
  
 };
 
-frontformatter('src', addProperties, ['type', 'author','permalink'], []);
+frontformatter('src', addProperties, ['layout', 'author','permalink'], []);
 
 /**
  * 

@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: Debugging Angular App in Visual Studio Code (VSCode) - Demo
 date: 2020-03-23T10:00:48.000Z
 published: true

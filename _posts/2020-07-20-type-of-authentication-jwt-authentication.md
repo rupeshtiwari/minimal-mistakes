@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: Type of Authentication - JWT Authentication
 date: 2020-07-20T10:00:40.000Z
 published: true

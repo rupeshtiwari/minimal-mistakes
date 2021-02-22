@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: Add Item To Cart Use case – RxJS
 date: 2020-06-08T10:00:14.000Z
 published: true

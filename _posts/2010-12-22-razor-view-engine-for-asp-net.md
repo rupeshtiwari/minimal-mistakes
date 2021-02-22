@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: ASP.Net MVC 3 introduces Razor a new view engine
 date: 2010-12-23T04:08:54.000Z
 published: true

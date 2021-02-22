@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: Testing Nrwl Nx Angular Monorepo Projects using JEST
 date: "2021-01-26 00:00 +0000"
 subtitle: learn how to debug nx monorepo specs in chrome and vs code

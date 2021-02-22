@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: Creating Registration Component in angular app - Demo
 date: 2020-01-27T11:00:35.000Z
 published: true

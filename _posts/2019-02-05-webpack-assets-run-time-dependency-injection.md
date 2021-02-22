@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: Webpack assets run time dependency injection
 date: 2019-02-06T00:00:44.000Z
 published: true

@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: "Module Pattern: Essential JavaScript Concepts"
 date: 2019-09-16T10:00:12.000Z
 published: true

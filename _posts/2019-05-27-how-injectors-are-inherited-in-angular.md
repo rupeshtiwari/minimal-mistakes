@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: How Injectors are inherited in angular?
 date: 2019-05-27T09:31:47.000Z
 published: true

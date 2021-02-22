@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: Build Javascript web application from scratch
 date: 2020-02-23T04:05:27.000Z
 published: true

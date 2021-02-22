@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: How to create API Documentation of any Typescript Project?
 date: 2019-03-02T00:28:50.000Z
 published: true

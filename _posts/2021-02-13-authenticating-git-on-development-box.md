@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: Authenticating GIT on Development Box
 date: "2021-02-13 00:00 +0000"
 subtitle: Learn how to login your company on premise git repo

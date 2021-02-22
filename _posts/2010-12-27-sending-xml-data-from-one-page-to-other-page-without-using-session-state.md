@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: Sending xml data from one page to other page without using session state.
 date: 2010-12-27T20:10:22.000Z
 published: true

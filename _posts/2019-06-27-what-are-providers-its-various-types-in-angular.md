@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: What are providers & its various types in Angular?
 date: 2019-06-27T06:29:54.000Z
 published: true

@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: Component based Architecture in Angular
 date: 2019-05-23T11:12:57.000Z
 published: true

@@ -1,5 +1,4 @@
 ---
-layout: posts
 title: "Pre sell NgRX: Getting Started"
 date: 2020-02-20T04:10:00.000Z
 published: true

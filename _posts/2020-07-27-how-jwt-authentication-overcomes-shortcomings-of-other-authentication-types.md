@@ -1,5 +1,4 @@
 ---
-layout: posts
 title:
   How JWT Authentication overcomes shortcomings of other authentication types
 date: 2020-07-27T10:00:51.000Z
