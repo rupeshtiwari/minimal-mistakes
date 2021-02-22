@@ -2,7 +2,6 @@
 layout: posts
 title: What's new in Angular 8.0?
 date: 2019-06-08T13:45:23.000Z
-type: post
 published: true
 comments: true
 social-share: true

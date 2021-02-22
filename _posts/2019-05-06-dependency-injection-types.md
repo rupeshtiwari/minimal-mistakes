@@ -2,7 +2,6 @@
 layout: posts
 title: Dependency Injection Types
 date: 2019-05-06T09:51:40.000Z
-type: post
 published: true
 comments: true
 social-share: true

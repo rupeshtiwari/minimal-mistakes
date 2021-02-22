@@ -2,7 +2,6 @@
 layout: posts
 title: Create Barrel for Typescript Project
 date: 2018-11-08T22:34:49.000Z
-type: post
 published: true
 comments: true
 social-share: true

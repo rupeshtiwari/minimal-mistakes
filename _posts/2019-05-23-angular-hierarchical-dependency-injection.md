@@ -2,7 +2,6 @@
 layout: posts
 title: Angular Hierarchical Dependency Injection
 date: 2019-05-23T10:54:01.000Z
-type: post
 published: true
 comments: true
 social-share: true

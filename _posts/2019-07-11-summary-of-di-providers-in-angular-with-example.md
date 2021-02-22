@@ -2,7 +2,6 @@
 layout: posts
 title: Summary of DI providers in angular with example
 date: 2019-07-11T14:53:23.000Z
-type: post
 published: true
 comments: true
 social-share: true

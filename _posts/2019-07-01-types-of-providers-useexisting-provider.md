@@ -2,7 +2,6 @@
 layout: posts
 title: Types of Providers -UseExisting Provider
 date: 2019-07-01T07:07:16.000Z
-type: post
 published: true
 comments: true
 social-share: true

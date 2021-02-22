@@ -2,7 +2,6 @@
 layout: posts
 title: Installing & Configuring Mongo DB in our angular app - Demo
 date: 2020-02-24T11:00:47.000Z
-type: post
 published: true
 comments: true
 social-share: true

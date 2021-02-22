@@ -2,7 +2,6 @@
 layout: posts
 title: 30 vs code BEST EXTENSIONS for front end development
 date: 2020-03-14T13:00:00.000Z
-type: post
 published: true
 comments: true
 social-share: true

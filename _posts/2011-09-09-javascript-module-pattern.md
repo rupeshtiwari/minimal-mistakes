@@ -2,7 +2,6 @@
 layout: posts
 title: JavaScript Module Pattern
 date: 2011-09-09T14:00:34.000Z
-type: post
 published: true
 comments: true
 social-share: true

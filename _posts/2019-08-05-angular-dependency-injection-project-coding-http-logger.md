@@ -2,7 +2,6 @@
 layout: posts
 title: Angular Dependency Injection Project coding – http Logger
 date: 2019-08-05T10:00:03.000Z
-type: post
 published: true
 comments: true
 social-share: true

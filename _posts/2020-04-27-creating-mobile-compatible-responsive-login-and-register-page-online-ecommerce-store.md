@@ -4,7 +4,6 @@ title: >-
   Creating Mobile compatible Responsive Login and Register Page - Online
   ecommerce Store
 date: 2020-04-27T10:00:18.000Z
-type: post
 published: true
 comments: true
 social-share: true

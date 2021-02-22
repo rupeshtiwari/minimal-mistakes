@@ -2,7 +2,6 @@
 layout: posts
 title: RxJS Marble Diagrams
 date: 2018-11-22T02:29:53.000Z
-type: post
 published: true
 comments: true
 social-share: true

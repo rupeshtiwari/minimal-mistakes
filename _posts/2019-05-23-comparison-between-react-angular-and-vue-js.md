@@ -2,7 +2,6 @@
 layout: posts
 title: "Comparison between React, Angular and Vue.Js"
 date: 2019-05-23T11:36:33.000Z
-type: post
 published: true
 comments: true
 social-share: true

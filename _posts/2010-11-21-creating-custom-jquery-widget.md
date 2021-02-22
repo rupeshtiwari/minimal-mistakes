@@ -2,7 +2,6 @@
 layout: posts
 title: Creating Custom jQuery Widget
 date: 2010-11-21T23:46:48.000Z
-type: post
 published: true
 comments: true
 social-share: true

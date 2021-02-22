@@ -2,7 +2,6 @@
 layout: posts
 title: Full stack master School signup page
 date: 2020-03-07T04:20:00.000Z
-type: post
 published: true
 comments: true
 social-share: true

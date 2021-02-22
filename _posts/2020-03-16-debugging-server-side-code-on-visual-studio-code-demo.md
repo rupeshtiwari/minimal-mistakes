@@ -2,7 +2,6 @@
 layout: posts
 title: Debugging Server Side Code on Visual Studio Code - Demo
 date: 2020-03-16T10:00:03.000Z
-type: post
 published: true
 comments: true
 social-share: true

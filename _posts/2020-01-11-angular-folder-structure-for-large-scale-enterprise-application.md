@@ -2,7 +2,6 @@
 layout: posts
 title: Angular Folder Structure For Large Scale Enterprise Application
 date: 2020-01-11T18:27:47.000Z
-type: post
 published: true
 comments: true
 social-share: true

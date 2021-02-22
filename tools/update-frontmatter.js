@@ -1,16 +1,10 @@
 const frontformatter = require('frontformatter');
 
 const addProperties = {
-  toc: true,
-  layout: "posts",
-  related: true,
-  share: true,
-  comments: true,
-  read_time: true,
-  author_profile: true
+ 
 };
 
-frontformatter('src', addProperties, ['meta', 'author','permalink'], []);
+frontformatter('src', addProperties, ['type', 'author','permalink'], []);
 
 /**
  * 

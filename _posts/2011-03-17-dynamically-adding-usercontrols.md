@@ -2,7 +2,6 @@
 layout: posts
 title: Dynamically Adding UserControls
 date: 2011-03-18T00:20:51.000Z
-type: post
 published: true
 comments: true
 social-share: true

@@ -2,7 +2,6 @@
 layout: posts
 title: Microsoft contributions to jQuery Plugins
 date: 2011-02-07T03:21:12.000Z
-type: post
 published: true
 comments: true
 social-share: true

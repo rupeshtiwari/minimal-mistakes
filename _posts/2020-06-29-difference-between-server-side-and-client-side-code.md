@@ -2,7 +2,6 @@
 layout: posts
 title: Difference between Server-side and Client-side Code
 date: 2020-06-29T10:00:50.000Z
-type: post
 published: true
 comments: true
 social-share: true

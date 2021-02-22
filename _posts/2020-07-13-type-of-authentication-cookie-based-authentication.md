@@ -2,7 +2,6 @@
 layout: posts
 title: Type of Authentication - Cookie Based Authentication
 date: 2020-07-13T10:00:12.000Z
-type: post
 published: true
 comments: true
 social-share: true

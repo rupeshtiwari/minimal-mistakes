@@ -2,7 +2,6 @@
 layout: posts
 title: how to create mock object in jasmine
 date: 2020-03-12T15:03:00.000Z
-type: post
 published: true
 comments: true
 social-share: true

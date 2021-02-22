@@ -2,7 +2,6 @@
 layout: posts
 title: "Understanding RxJS BehaviorSubject, ReplaySubject and AsyncSubject"
 date: 2019-06-15T14:50:04.000Z
-type: post
 published: true
 comments: true
 social-share: true

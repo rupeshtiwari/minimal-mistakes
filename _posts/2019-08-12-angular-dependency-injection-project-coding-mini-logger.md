@@ -2,7 +2,6 @@
 layout: posts
 title: Mini-Logger – Angular Dependency Injection Project coding
 date: 2019-08-12T10:00:28.000Z
-type: post
 published: true
 comments: true
 social-share: true

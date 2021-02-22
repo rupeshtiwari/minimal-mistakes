@@ -2,7 +2,6 @@
 layout: posts
 title: My YouTube Channel
 date: 2018-10-30T18:53:05.000Z
-type: post
 published: true
 comments: true
 social-share: true

@@ -2,7 +2,6 @@
 layout: posts
 title: Types of Providers -UseValue Provider
 date: 2019-07-01T07:15:19.000Z
-type: post
 published: true
 comments: true
 social-share: true

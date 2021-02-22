@@ -2,7 +2,6 @@
 layout: posts
 title: Scope in Detail with example- Essential JavaScript Concepts
 date: 2019-08-26T10:00:16.000Z
-type: post
 published: true
 comments: true
 social-share: true

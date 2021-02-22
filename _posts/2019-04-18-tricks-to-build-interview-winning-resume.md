@@ -2,7 +2,6 @@
 layout: posts
 title: Tricks to build Interview-winning Resume
 date: 2019-04-18T09:51:05.000Z
-type: post
 published: true
 comments: true
 social-share: true

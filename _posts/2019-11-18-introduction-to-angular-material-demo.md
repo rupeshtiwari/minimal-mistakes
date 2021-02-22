@@ -2,7 +2,6 @@
 layout: posts
 title: Introduction to angular material - Demo
 date: 2019-11-18T11:00:41.000Z
-type: post
 published: true
 comments: true
 social-share: true

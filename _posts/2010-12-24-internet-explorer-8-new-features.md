@@ -2,7 +2,6 @@
 layout: posts
 title: Internet Explorer 8 - new features
 date: 2010-12-25T00:58:06.000Z
-type: post
 published: true
 comments: true
 social-share: true

@@ -2,7 +2,6 @@
 layout: posts
 title: What is multi True provider in angular?
 date: 2019-07-07T14:12:00.000Z
-type: post
 published: true
 comments: true
 social-share: true

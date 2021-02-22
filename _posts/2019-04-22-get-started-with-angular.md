@@ -2,7 +2,6 @@
 layout: posts
 title: Get started with Angular
 date: 2019-04-22T08:37:11.000Z
-type: post
 published: true
 comments: true
 social-share: true

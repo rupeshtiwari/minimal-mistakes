@@ -4,7 +4,6 @@ title: >-
   Integrating angular material, products listing and local server deployment -
   Angular app development
 date: 2019-11-11T11:00:44.000Z
-type: post
 published: true
 comments: true
 social-share: true

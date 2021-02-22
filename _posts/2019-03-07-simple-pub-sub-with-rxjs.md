@@ -2,7 +2,6 @@
 layout: posts
 title: How to create RxJS Publish Subscribe Library?
 date: 2019-03-07T20:00:08.000Z
-type: post
 published: true
 comments: true
 social-share: true

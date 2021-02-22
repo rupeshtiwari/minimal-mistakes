@@ -2,7 +2,6 @@
 layout: posts
 title: Hoisting with Example - Essential JavaScript Concepts
 date: 2019-09-02T10:00:07.000Z
-type: post
 published: true
 comments: true
 social-share: true

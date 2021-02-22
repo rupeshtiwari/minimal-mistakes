@@ -2,7 +2,6 @@
 layout: posts
 title: Basics of jQuery
 date: 2011-07-08T19:46:16.000Z
-type: post
 published: true
 comments: true
 social-share: true

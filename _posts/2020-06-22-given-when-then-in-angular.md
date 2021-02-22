@@ -2,7 +2,6 @@
 layout: posts
 title: Given When Then in Angular
 date: 2020-06-22T10:00:37.000Z
-type: post
 published: true
 comments: true
 social-share: true

@@ -2,7 +2,6 @@
 layout: posts
 title: Integrating Card Component from Angular CLI - Demo
 date: 2019-12-30T11:00:36.000Z
-type: post
 published: true
 comments: true
 social-share: true

@@ -2,7 +2,6 @@
 layout: posts
 title: SETTING UP WEBPACK FOR ANY TYPESCRIPT PROJECT FROM SCRATCH
 date: 2019-06-01T14:02:20.000Z
-type: post
 published: true
 comments: true
 social-share: true

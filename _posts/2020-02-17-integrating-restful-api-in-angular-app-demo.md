@@ -2,7 +2,6 @@
 layout: posts
 title: Integrating Restful API in Angular App - Demo
 date: 2020-02-17T11:00:16.000Z
-type: post
 published: true
 comments: true
 social-share: true

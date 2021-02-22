@@ -2,7 +2,6 @@
 layout: posts
 title: 9 Basic JavaScript Concepts You should know
 date: 2018-11-02T22:14:41.000Z
-type: post
 published: true
 comments: true
 social-share: true

@@ -2,7 +2,6 @@
 layout: posts
 title: Restoring Scroll Position
 date: 2011-07-04T00:00:07.000Z
-type: post
 published: true
 comments: true
 social-share: true

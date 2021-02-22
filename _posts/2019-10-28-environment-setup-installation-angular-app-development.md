@@ -2,7 +2,6 @@
 layout: posts
 title: Environment setup & Installation- Angular app development
 date: 2019-10-28T10:00:55.000Z
-type: post
 published: true
 comments: true
 social-share: true

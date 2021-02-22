@@ -2,7 +2,6 @@
 layout: posts
 title: Prototypal Inheritance in JavaScript
 date: 2010-09-05T12:07:01.000Z
-type: post
 published: true
 comments: true
 social-share: true

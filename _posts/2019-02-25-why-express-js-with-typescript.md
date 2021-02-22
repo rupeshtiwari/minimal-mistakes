@@ -2,7 +2,6 @@
 layout: posts
 title: Why Express.JS with Typescript
 date: 2019-02-26T01:23:52.000Z
-type: post
 published: true
 comments: true
 social-share: true

@@ -2,7 +2,6 @@
 layout: posts
 title: Assembly Binding Log Viewer
 date: 2011-06-27T14:25:54.000Z
-type: post
 published: true
 comments: true
 social-share: true

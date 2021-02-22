@@ -2,7 +2,6 @@
 layout: posts
 title: Relationship between Injector & Provider in Angular
 date: 2019-05-27T09:26:03.000Z
-type: post
 published: true
 comments: true
 social-share: true

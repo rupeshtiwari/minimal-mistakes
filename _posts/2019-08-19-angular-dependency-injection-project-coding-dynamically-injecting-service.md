@@ -3,7 +3,6 @@ layout: posts
 title:
   Dynamically Injecting Service - Angular Dependency Injection Project coding
 date: 2019-08-19T10:00:59.000Z
-type: post
 published: true
 comments: true
 social-share: true

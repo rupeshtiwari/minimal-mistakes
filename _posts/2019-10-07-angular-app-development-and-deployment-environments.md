@@ -2,7 +2,6 @@
 layout: posts
 title: Angular app development and deployment environments
 date: 2019-10-07T10:00:44.000Z
-type: post
 published: true
 comments: true
 social-share: true

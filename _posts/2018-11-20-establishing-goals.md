@@ -2,7 +2,6 @@
 layout: posts
 title: Establishing Goals
 date: 2018-11-21T01:52:32.000Z
-type: post
 published: true
 comments: true
 social-share: true

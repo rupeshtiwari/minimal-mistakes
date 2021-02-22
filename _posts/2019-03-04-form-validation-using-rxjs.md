@@ -2,7 +2,6 @@
 layout: posts
 title: How to do Html Form Validation using RxJS
 date: 2019-03-05T00:09:44.000Z
-type: post
 published: true
 comments: true
 social-share: true

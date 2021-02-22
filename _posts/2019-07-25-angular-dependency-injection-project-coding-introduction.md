@@ -2,7 +2,6 @@
 layout: posts
 title: Angular Dependency Injection Project coding - Introduction
 date: 2019-07-25T10:00:38.000Z
-type: post
 published: true
 comments: true
 social-share: true

@@ -2,7 +2,6 @@
 layout: posts
 title: What is DI Token
 date: 2019-05-27T09:01:44.000Z
-type: post
 published: true
 comments: true
 social-share: true

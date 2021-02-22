@@ -2,7 +2,6 @@
 layout: posts
 title: Up coming Full Stack Master Courses
 date: 2020-02-29T22:22:51.000Z
-type: post
 published: true
 comments: true
 social-share: true

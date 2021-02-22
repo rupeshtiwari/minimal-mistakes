@@ -2,7 +2,6 @@
 layout: posts
 title: Adding Registration and Logout feature in angular app - Demo
 date: 2020-02-03T11:00:12.000Z
-type: post
 published: true
 comments: true
 social-share: true

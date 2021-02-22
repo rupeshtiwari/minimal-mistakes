@@ -2,7 +2,6 @@
 layout: posts
 title: Configure Logger - Angular Dependency Injection Project coding
 date: 2019-08-15T10:00:29.000Z
-type: post
 published: true
 comments: true
 social-share: true

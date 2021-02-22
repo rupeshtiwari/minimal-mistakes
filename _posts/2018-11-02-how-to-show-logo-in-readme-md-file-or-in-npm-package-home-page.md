@@ -2,7 +2,6 @@
 layout: posts
 title: How to Show Logo in ReadMe.Md file or in npm Package Home Page
 date: 2018-11-02T16:06:26.000Z
-type: post
 published: true
 comments: true
 social-share: true

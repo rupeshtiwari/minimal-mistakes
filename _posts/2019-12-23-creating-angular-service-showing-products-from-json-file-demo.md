@@ -2,7 +2,6 @@
 layout: posts
 title: Creating Angular Service & Showing Products from JSON file - Demo
 date: 2019-12-23T11:00:44.000Z
-type: post
 published: true
 comments: true
 social-share: true

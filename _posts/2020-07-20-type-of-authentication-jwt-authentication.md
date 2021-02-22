@@ -2,7 +2,6 @@
 layout: posts
 title: Type of Authentication - JWT Authentication
 date: 2020-07-20T10:00:40.000Z
-type: post
 published: true
 comments: true
 social-share: true

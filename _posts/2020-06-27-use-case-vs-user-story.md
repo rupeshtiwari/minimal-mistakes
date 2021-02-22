@@ -2,7 +2,6 @@
 layout: posts
 title: Use case vs user story
 date: 2020-06-28T00:12:00.000Z
-type: post
 published: true
 comments: true
 social-share: true

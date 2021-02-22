@@ -2,7 +2,6 @@
 layout: posts
 title: How to kill all node process in your Angular/Node.JS App?
 date: 2019-02-27T01:02:04.000Z
-type: post
 published: true
 comments: true
 social-share: true
